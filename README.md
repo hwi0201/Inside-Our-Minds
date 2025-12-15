@@ -57,7 +57,7 @@ Third-party assets are not included in this repository due to license restrictio
 
 ## 🎮 Gameplay Video
 
-↓ Click the Image!
+↓ Click the Image and Watch the Video!
 
 [![Gameplay Video](https://img.youtube.com/vi/pkF2eg7QrHI/0.jpg)](https://youtu.be/pkF2eg7QrHI)
 

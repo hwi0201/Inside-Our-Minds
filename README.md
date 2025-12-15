@@ -1,11 +1,11 @@
-# 🧠 Inside Our Mind: A VR Journey into Emotions
+# 🧠 Inside Our Minds: A VR Journey into Emotions
 
 > "Every Emotion Has A Purpose To Exist."
 
 ![Unity](https://img.shields.io/badge/Unity-6.2%2B-black?style=flat&logo=unity) ![Platform](https://img.shields.io/badge/Platform-VR%20(Oculus%2FQuest)-blue)
 
 ## 📖 Project Overview
-**Inside Our Mind** is an immersive Virtual Reality (VR) museum prototype designed to visualize invisible human emotions. Inspired by neuroscience and the movie *Inside Out*, this project allows users to walk inside a metaphorical brain, interact with emotional environments, and understand the biological purpose of feelings.
+**Inside Our Minds** is an immersive Virtual Reality (VR) museum prototype designed to visualize invisible human emotions. Inspired by neuroscience and the movie *Inside Out*, this project allows users to walk inside a metaphorical brain, interact with emotional environments, and understand the biological purpose of feelings.
 
 This project was developed as a **University Capstone Project** by **김휘경, 박민석, 이루나**.
 
